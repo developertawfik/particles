@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 100%;
+    background-color:rgb(71, 69, 69);
+}
